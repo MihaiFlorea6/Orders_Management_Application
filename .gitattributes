@@ -1,2 +1,9 @@
 *.html linguist-vendored
+
+*.xpr linguist-vendored
+*.wdb linguist-vendored
+*.wcfg linguist-vendored
+*.runs/* linguist-vendored
+
+*.java linguist-detectable=true
 *.sql linguist-detectable=true
